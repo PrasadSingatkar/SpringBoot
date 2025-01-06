@@ -1,0 +1,16 @@
+Test Questions Solving 
+New Test Paper
+
+@RestController
+@Controller
+@Service
+@Repository
+@Autowired
+@RequestMapping
+@GetMapping
+@PostMapping
+@PutMapping
+@DeleteMapping
+@PatchMapping
+@RequestBody
+REST

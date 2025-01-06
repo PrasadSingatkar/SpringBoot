@@ -1,0 +1,10 @@
+Agenda:
+What are REST services?
+Application Architecture
+Examples to understand Architecture
+JSON
+REST HTTP basics
+HTTP Request Message 
+HTTP Response Message
+Client Tool(Postam)
+SpringRestController 
