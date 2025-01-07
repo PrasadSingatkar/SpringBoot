@@ -1,0 +1,4 @@
+Agenda:
+~ SpringBoot REST Path Variables
+~ SpringBoot REST Exception Handling
+~ Global Exception Handler*
